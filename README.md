@@ -3,12 +3,22 @@
 <div>
   <a href="https://github.com/rafamour">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamour&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamour&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
   
-  <div style="display: inline_block"><br>
-     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </div>
+**Programming Languages**
+
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="LUA" title="Lua" width="40px" src="https://cdn.discordapp.com/attachments/796770636663881758/882468313345687643/lua_1.png">
+|--|--|
+  
+**Databases**
+
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|
+|--|
+  
+**Tools**
+
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|
+|--|
   
   ##
   
@@ -20,9 +30,6 @@
   <a href = "mailto:contactorafamour@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <div> 
     
-    ##
-    
-    <div>
-   ![Snake animation](https://github.com/rafamour/rafamour/blob/output/github-contribution-grid-snake.svg)
+   ##
  
-</div>
+
