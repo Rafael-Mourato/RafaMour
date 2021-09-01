@@ -1,9 +1,11 @@
-## Boas! Eu sou o Rafa, prazer e tu!?
+## Hi There! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+I’m passionate about the world of technology and "programming" is something I feel good about, so I hope to see this through!
 
-<div>
-  <a href="https://github.com/rafamour">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamour&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-</div>
+  
+  ## Skill Set :muscle:
+
+These are some of the major technologies that I use or have worked on in the past:
+
   
 **Programming Languages**
 
@@ -32,4 +34,15 @@
     
    ##
  
+## Some of my stats :bar_chart:
+
+<img src="https://github-readme-stats.vercel.app/api?username=rafamour&show_icons=true&theme=great-gatsby&include_all_commits=true">|
+|--|
+
+
+     
+### Here is a random meme for you, to make your day better
+(*PS: Refresh the page to see a new meme* :wink: )
+
+<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 
