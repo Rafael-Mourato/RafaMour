@@ -9,7 +9,7 @@ These are some of the major technologies that I use or have worked on in the pas
   
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="LUA" title="Lua" width="40px" src="https://cdn.discordapp.com/attachments/796770636663881758/882468313345687643/lua_1.png">
+<img title="Python" alt="Python" width="40px" src="https://skillicons.dev/icons?i=python&theme=dark&perline=4" />|<img alt="LUA" title="Lua" width="40px" src="https://skillicons.dev/icons?i=lua&theme=dark&perline=4">
 |--|--|
   
 **Databases**
