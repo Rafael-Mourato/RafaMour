@@ -14,9 +14,11 @@ These are some of the major technologies that I use or have worked on in the pas
   
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|
-|--|
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+|--|--|
   
+<a href="https://github.com/TomG07" alt="TomG"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=4"></a>
+
 **Tools**
 
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|
