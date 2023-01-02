@@ -4,25 +4,25 @@ I’m passionate about the world of technology and "programming" is something I 
   
   ## Skill Set :muscle:
 
-These are some of the major technologies that I use or have worked on in the past:
+These are some of the major technologies that I use, that I have worked on in the past or that I'm learning:
 
   
-**Programming Languages**
+**Programming Languages:**
 
-<img title="Python" alt="Python" width="40px" src="https://skillicons.dev/icons?i=python&theme=dark&perline=4" />|<img alt="LUA" title="Lua" width="40px" src="https://skillicons.dev/icons?i=lua&theme=dark&perline=4">
-|--|--|
+<img src="https://skillicons.dev/icons?i=python&theme=dark&perline=4" /> <img src="https://skillicons.dev/icons?i=lua&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=html&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=4">
+
   
-**Databases**
+**Databases:**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=4">
-|--|--|
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=firebase&theme=dark&perline=4">
+
   
 
 
-**Tools**
+**Tools:**
 
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|
-|--|
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=4">
+
   
   ##
   
