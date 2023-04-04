@@ -11,13 +11,6 @@ These are some of the major technologies that I use, that I have worked on in th
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark&perline=4" /> <img src="https://skillicons.dev/icons?i=lua&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=html&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=4">
 
-  
-**Databases:**
-
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=firebase&theme=dark&perline=4">
-
-  
-
 
 **Tools:**
 
