@@ -9,12 +9,12 @@ These are some of the major technologies that I use, that I have worked on in th
   
 **Programming Languages:**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark&perline=4" /> <img src="https://skillicons.dev/icons?i=lua&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=html&theme=dark&perline=4"> <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=4">
+<img src="https://skillicons.dev/icons?i=python,lua,js,html,css,c"/>
 
 
 **Tools:**
 
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=4">
+<img src="https://skillicons.dev/icons?i=vscode,mysql,ai,ps,git,figma,discord"/>
 
   
   ##
