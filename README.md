@@ -9,7 +9,7 @@ These are some of the major technologies that I use, that I have worked on in th
   
 **Programming Languages:**
 
-<img src="https://skillicons.dev/icons?i=python,lua,js,html,css,c"/>
+<img src="https://skillicons.dev/icons?i=python,lua,js,html,css,c&perline=3"/>
 
 
 **Tools:**
