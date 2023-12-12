@@ -31,13 +31,13 @@ These are some of the major technologies that I use, that I have worked on in th
  
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafael-mourato&show_icons=true&theme=great-gatsby&include_all_commits=true">
-|--|
+<img src="https://github-readme-stats.vercel.app/api?username=rafael-mourato&show_icons=true&theme=great-gatsby&include_all_commits=true">|
+--|
 
 
      
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
 
-<a href="https://github.com/techytushar/random-memer"><img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<a href="https://github.com/techytushar/random-memer"><img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up."></a>
 
